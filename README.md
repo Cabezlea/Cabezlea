@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm Leandro Cabezas, a software programming instructor at Learn To Bot and a student at The University of Texas at Dallas, majoring in Computer Science.\
+💡 &nbsp; I'm Leandro Cabezas, a Software Engineer Intern at Sweet & Coffee and a student at The University of Texas at Dallas, majoring in Computer Science.\
 💻 &nbsp;I'm a passionate software developer, eager to learn as much as I can in programming. My current focus is on developing my backend skills and exploring cutting-edge technologies.\
 🎓 &nbsp;I'm on a continuous journey to enhance my knowledge and expertise in backend development, artificial intelligence, and software engineering.\
 🌱 &nbsp;In my free time, I enjoy coding, playing tennis, playing the piano, and fishing.\
